@@ -5,3 +5,4 @@ This repo contains all of my mobile application developement projects
 - [Ecommerce_App](https://github.com/TLevion/MAD-Assignment2)
 - [CoffeeShop_App](https://github.com/TLevion/SCoffee_Shop)  
 - [ToDoList_App](https://github.com/TLevion/Quiz1)
+- [A3 Freelancing Activities](https://github.com/TLevion/A3-Freelancing)
